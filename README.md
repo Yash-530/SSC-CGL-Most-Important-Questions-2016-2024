@@ -1,5 +1,5 @@
-# 📚 SSC CGL General Studies
-
+# 📚 SSC CGL General Studies Ques
+ 
 Official **SSC CGL Previous Years General Studies Questions (2016-2024)**  
 Includes most repeated questions with explanations, quiz mode, filters, and PDF export.
 
